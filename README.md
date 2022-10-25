@@ -41,3 +41,7 @@ If you are a Python developer keen to gain expertise in OOP to improve your deve
 * [High-Performance Computing with Python 3.x [Video]](https://www.packtpub.com/application-development/high-performance-computing-python-3x-video?utm_source=github&utm_medium=repository&utm_campaign=9781789956252)
 
 * [Functional Programming in 7 Days [Video]](https://www.packtpub.com/application-development/functional-programming-7-days-video?utm_source=github&utm_medium=repository&utm_campaign=9781788990295)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789618112">https://packt.link/free-ebook/9781789618112 </a> </p>
